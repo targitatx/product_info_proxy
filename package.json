@@ -1,17 +1,22 @@
 {
-  "name": "",
+  "name": "product_info_proxy",
   "version": "",
   "description": "",
+  "main": "index.js",
   "author": "",
   "license": "",
   "engines": {
     "node": ">=6.13.0"
   },
   "scripts": {
+    "start": "nodemon server/server.js"
   },
   "dependencies": {
+    "express": "^4.16.4"
   },
   "devDependencies": {
-    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor"
+    "eslint": "^5.16.0",
+    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
+    "nodemon": "^1.18.10"
   }
 }
