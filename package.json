@@ -2,7 +2,7 @@
   "name": "product_info_proxy",
   "version": "",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "author": "",
   "license": "",
   "engines": {

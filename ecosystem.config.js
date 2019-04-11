@@ -1,7 +1,7 @@
 module.exports = {
   apps: [{
     name: 'targitProxy',
-    script: './server.js'
+    script: './server/server.js'
   }],
   deploy: {
     production: {
