@@ -19,6 +19,7 @@
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
-    "nodemon": "^1.18.10"
+    "nodemon": "^1.18.10",
+    "pm2": "^3.5.0"
   }
 }
